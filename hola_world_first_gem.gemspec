@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "hola_world_first_gem"
   spec.version       = HolaWorldFirstGem::VERSION
   spec.authors       = ["Goldstein, Stephanie"]
-  spec.email         = ["Stephanie.Goldstein@ingramcontent.com"]
+  spec.email         = ["please do not email me"]
 
   spec.summary       = %q{Hola!}
   spec.description   = %q{A simple hello world gem.}
